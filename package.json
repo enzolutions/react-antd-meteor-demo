@@ -24,29 +24,5 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
-    "babel-eslint": "7.2.1",
-    "eslint": "3.19.0",
-    "eslint-config-vazco": "2.4.1",
-    "eslint-plugin-babel": "4.1.1",
-    "eslint-plugin-brackets": "0.0.1",
-    "eslint-plugin-react": "6.10.3",
-    "eslint-plugin-vazco": "1.0.0",
-    "rimraf": "2.6.1"
-  },
-  "postcss": {
-    "plugins": {
-      "autoprefixer": {
-        "browsers": [
-          "safari 8",
-          "safari 5",
-          "ie 8",
-          "ie 9",
-          "opera 12.1",
-          "ios 6",
-          "android 4"
-        ]
-      }
-    },
-    "parser": "postcss-less"
   }
 }
